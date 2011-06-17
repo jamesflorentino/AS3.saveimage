@@ -1,1 +1,6 @@
-README
+Example AS3 Code:
+---
+import com.joystick.images.SaveImage.as
+// assign this method in a click handler
+SaveImage.save(myMovieClip, "myFileName.png");
+---
